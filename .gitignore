@@ -1,0 +1,5 @@
+# FIles to ignore
+.ipynb_checkpoints/
+*kml
+*kmz
+density/
